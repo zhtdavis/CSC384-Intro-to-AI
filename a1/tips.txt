@@ -1,0 +1,6 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. Dead cases are important to consider. This can avoid useless searching.
+2. This problem can be basically divide into two sub-problems: robot to box and box to storage distances.
+3. Try to use some state-of-art heuristic calculation. Using brute force might not be a good idea.
+4. Obstacles are also important. This can also create a lot of dead cases.
+5. It's important to figure out how to penalize some certain state. The heuristic function should be admissible.
